@@ -1,0 +1,26 @@
+{
+  "name": "bear-bot",
+  "version": "1.0.0",
+  "description": "Attempting to make a simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stadds/DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stadds/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/stadds/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.16"
+  }
+}
